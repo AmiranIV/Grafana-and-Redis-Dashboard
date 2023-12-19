@@ -1,6 +1,8 @@
 ## Deploy a Grafana server with Redis integration that presents information about the redis-cart DB
 
-## provisioned in the cluster as part of the Online Boutique Service ( I will attach later on)
+## provisioned in the cluster as part of the Online Boutique Service of Google Cloud Platform
+
+link to the entire repo that this Deployment is based on: https://github.com/GoogleCloudPlatform/microservices-demo
 
 - Create a secret Before the deployment using this command:
 
