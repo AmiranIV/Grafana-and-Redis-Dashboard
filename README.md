@@ -14,7 +14,7 @@ The name and password are your choice.
 
 kubectl apply -f grafana-Deployment+Service.yaml
 
-### I Deployed it on an EC2 so don't forget to port forward using this command if you're on a remote machine as well:
+I Deployed it on an EC2 so don't forget to port forward using this command if you're on a remote machine as well:
 
 kubectl port-forward service/my-grafana 3000:3000 --address 0.0.0.0
 
